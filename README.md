@@ -1,16 +1,24 @@
-# tela_login
+## Tela de Login em Flutter
 
-A new Flutter project.
+Este é um exemplo de código para criar uma tela de login simples em Flutter.
 
-## Getting Started
+![alt text](image.png)
 
-This project is a starting point for a Flutter application.
+![alt text](image-1.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![alt text](image-2.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tecnologias Utilizadas
+- Flutter SDK
+- Dart Programming Language
+
+## Como Executar o Projeto
+
+1. Clone o repositório para o seu ambiente local.
+2. Abra o projeto no Visual Studio Code ou no Android Studio.
+3. Execute o comando flutter pub get para instalar as dependências.
+4. Conecte um dispositivo ou inicie um emulador.
+5. Execute o comando flutter run para iniciar o aplicativo.
+
+#
